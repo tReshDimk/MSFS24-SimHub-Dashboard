@@ -5,7 +5,7 @@ Sharing my custom SimHub dashboard for MSFS 2024.
 Made with SimHub v9.11.5.  
 Designed for 1366x768 displays.
 
-![Скриншот1](./SimHub_MSFS24_dash.png)
+![Скриншот1](./SimHub_MSFS24_dash_1.png)
 
 ![Скриншот2](./SimHub_MSFS24_dash_2.png)
 
